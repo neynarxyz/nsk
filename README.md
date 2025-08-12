@@ -2,7 +2,7 @@
 
 # Farcaster Mini Apps (formerly Frames v2) Quickstart by Neynar 🪐
 
-A Farcaster Mini Apps quickstart npx script.
+A Farcaster Mini Apps quickstart template. This template repo can be installed with an interactive script, just run the npx command below.
 
 This is a [NextJS](https://nextjs.org/) + TypeScript + React app.
 
